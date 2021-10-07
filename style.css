@@ -1,0 +1,38 @@
+div {
+    border: 1px solid firebrick;
+    padding: 8px;
+}
+.centerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: saddlebrown;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: saddlebrown;
+}
+
+img {
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
